@@ -17,9 +17,9 @@ void main() {
   // var arbitro = '';
   // print('holá à mundo');
 
-  String varNombre = "Jose";
+  // String varNombre = "Jose";
 
-  String estoEsOtroNombre = "Maria";
+  // String estoEsOtroNombre = "Maria";
 
   // print(varNombre);
   // print(estoEsOtroNombre);

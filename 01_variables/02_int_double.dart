@@ -19,7 +19,7 @@ void main() {
 
   print(strNumero2);
 
-  double numD = 20;
+  //double numD = 20;
 
   int radioCir = 4;
 
